@@ -1,0 +1,80 @@
+AI - fairness 
+
+* Links
+https://fortune.com/longform/ai-artificial-intelligence-deep-machine-learning/
+https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/
+https://arxiv.org/abs/1607.06520 - man is to computer programmer what woman is to homemaker? Debiasing word embeddings
+https://arxiv.org/pdf/1906.09208.pdf - mitigating bias in algo hiring - Evaluating claims and practices
+https://fairmlbook.org/tutorial2.html 21 fairness definitions and their politics
+https://advances.sciencemag.org/content/4/1/eaao5580.full - The accuracy, fairness, and limits of predicting recidivism  
+https://research.google.com/bigpicture/attacking-discrimination-in-ml/ - Attacking discrimination with smarter machine learning
+* 21 fairness definitions and their politics
+
+Frequent assumption: Decisions makers aim is to maximise accuracy subject to fairness constraint ( related to long running debate on prediction vs explanation ) {ref: interventions over predictions paper}
+
+Statistical bias vs societal bias
+stat bias: difference between a an estimators expected value and the true value
+
+"The model summarizes the data correctly. If the data is biased then its not the algorithms fault"
+
+Reasons lack of stat bias isn't enough:
+- Says nothing about distribution of errors
+- Data biases are inevitable; we must design algorithms that account for them
+- ...
+
+  *It is not about mathematical correctness; it is about how to make algo systems support human values*
+
+GROUP FAIRNESS - outcome fairness. Do outcome differ between demographic groups (or other population groups)
+Group fairness: impossibility theorem
+
+| Metric                | Equalised under    |
+|-----------------------+--------------------|
+| Selection prob        | Demographic parity |
+| Pos. predictive value | Predictive parity  |
+| Neg. predictive value |                    |
+| False positive rate   | Error rate balance |
+| False negative rate   | Error rate balance |
+| Accuracy              | Accuracy equity    |
+
+
+Insight: different stakeholders want different things out of binary classifiers and there a lots of things you might want to trade off against eachother.
+
+*Trade offs:*
+> Trade offs of group fairness
+> Between group fairness and individual fairness
+> Between fairness and utility
+
+
+*Tensions* between different prediction desiderata (desirables) don't depend on who is doing predicting
+
+
+*Tension* between disparate treatment and disparate impact
+> Ricci vs DeStefano Finding creative case by case workarounds doesn't "scale" for algo decision making *Can a randomised classifier be fair?*
+
+Process Fairness
+
+Drosou et al. Diversity in Big Data: A Review.
+
+Google translate gender bias in translation from gendered to gender neutral and back
+
+[[file:google-trans-bias.jpg]]
+
+
+Crawford. The trouble with bias.
+Kay et al. Unequal Representation and Gender Stereotypes in Image Search Results for occupations
+
+Is stereotype mirroring what we want? Recall: the default view in the tech world is that stereotype mirroring is "unbiased" and "correct"
+
+Unbiased look at dataset bias
+
+Bias amplification 
+
+* Ai is making it easier to kill (you)
+russian automatic tank
+machine pursues human given objective
+king midas problem; we are unable to correctly specify the objective
+
+Chemical weapons
+
+*weapons automation* -
+historical example: gatling gun - ended up killing more people (although intended to save lives) - same with autonomous weapons

@@ -1,0 +1,24 @@
+* Data science for social change
+** What are the positive use cases?
+*** Medical diagnosis, getting greater amounts of diagnoses correct
+*** Climate modelling ? What we already know ?
+*** Data science in politics
+Confuses and dystopifies politics
+** Extra ideas
+***  worlds biggest (?) Supercomputer used for maintenance of US nuclear arsenal
+* Data science (/Ai) (/Computing) ecological paradox
+* Lessons from the hospital
+** Maybe social media addiction is useful in some cases
+as method of sedation
+* Notes:
+** Policy networks, performance metrics and platform markets: Charting the expanding data infrastructure of higher education - Ben Williamson
+Data measurements of assessment, evaluation and comparison are being used by HE policy makers, leaders evaluators the media students and wider public to judge and rank individual institutions courses staff and the sector as a whole.
+
+examinations by the paper:
+(1) the policy network of organizations driving its development, 
+(2) the specific mea-
+surement technologies it includes and their production of performance metrics and 
+(3) how a new market is emerging for competitive data service providers. It highlights how developments in education, such as big data, learning analytics (LA) and artificial intelligence (AI), are being politically re-purposed as technologies of performance measurement, comparison and competition, as well as being appropriated into commercial expansion across the HE system.
+
+Infrastructure studies
+"Infrastructure studies have become especially significant in the analysis of large-scale data systems as they have become “hubs of command and control over production, consumption, and exchange” of data (Bigo, Isin, & Ruppert, 2019, p. 13)."

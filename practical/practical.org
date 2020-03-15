@@ -1,0 +1,7 @@
+#+author: Louis James
+#+date: 2019:12
+#+options: h:1 num:nil toc:nil \n:t
+* Practical assesment
+
+* Links 
+https://www.wired.co.uk/article/momentum-labour-party-my-campaign-map

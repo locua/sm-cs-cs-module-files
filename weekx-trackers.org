@@ -1,0 +1,17 @@
+* Political Party Tracker network analysis
+** Site list
+https://www.libdems.org.uk/plan?splash=1
+https://vote.conservatives.com/
+https://labour.org.uk/
+https://www.thebrexitparty.org/
+https://vote.greenparty.org.uk/
+https://www.ukip.org/
+http://www.mydup.com/
+https://www.snp.org/
+https://www.plaid.cymru/splash?splash=1
+https://voteforchange.uk/
+http://www.sdlp.ie/
+http://www.uup.org/
+https://www.sinnfein.ie/
+** Initial Visualisation
+[[file:./gephi_files/parties1.png]]

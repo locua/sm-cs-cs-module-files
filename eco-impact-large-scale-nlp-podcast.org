@@ -1,0 +1,18 @@
+* Emma Strubell - Environmental impact of large scale NLP (Natural language processing) Model Training 
+Interests:
+Generalisability of the results
+Repeatability in research
+
+** Paper: energy and policy considerations for deep learning
+
+Efficient models, monetary and environmental cost
+
+$245,000 dollars to train xl net at google [[https://www.botxo.ai/blog/google-xlnet/][link]]
+
+Estimate emissions of training models
+
+Carbon footprint of last trained model double her carbon footprint
+
+google carbon offsetting - investigate
+
+
